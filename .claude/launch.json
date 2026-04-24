@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ap-project-tracker",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+      "runtimeArgs": ["C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js", "start"],
+      "port": 3000,
+      "cwd": "C:\\Users\\AprilHolmes\\OneDrive - Acceleration Point\\Desktop\\ap-project-tracker"
+    }
+  ]
+}
