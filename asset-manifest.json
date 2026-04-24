@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/ap-project-tracker/static/css/main.4efb37a3.css",
-    "main.js": "/ap-project-tracker/static/js/main.c10d71eb.js",
+    "main.js": "/ap-project-tracker/static/js/main.9c79c46e.js",
     "static/js/206.338c2a32.chunk.js": "/ap-project-tracker/static/js/206.338c2a32.chunk.js",
     "index.html": "/ap-project-tracker/index.html"
   },
   "entrypoints": [
     "static/css/main.4efb37a3.css",
-    "static/js/main.c10d71eb.js"
+    "static/js/main.9c79c46e.js"
   ]
 }
